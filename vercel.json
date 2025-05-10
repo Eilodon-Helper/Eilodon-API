@@ -1,7 +1,5 @@
 {
-  "version": 2,
   "routes": [
-    { "src": "/ask", "dest": "/api/ask.js" },
-    { "src": "/init", "dest": "/api/init.js" }
+    { "src": "/api/hello", "dest": "/api/hello.js" }
   ]
 }
